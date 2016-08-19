@@ -1,7 +1,8 @@
+/** Displaying the package in which the class resides */
 package datamanagement;
 
+/** Start of the interface IUnit */
 public interface IUnit {
-
     public String getUnitCode();
     public String getUnitName();
 

@@ -8,8 +8,7 @@ import java.awt.Color;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-public class cgUI extends javax.swing.JFrame implements IUnitLister,
-		IStudentLister {
+public class cgUI extends javax.swing.JFrame implements IUnitLister, IStudentLister{
 	private cgCTL ctl;
 	private javax.swing.DefaultComboBoxModel uM;
 	private javax.swing.DefaultComboBoxModel rM;
